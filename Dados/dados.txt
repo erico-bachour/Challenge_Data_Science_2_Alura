@@ -1,1 +1,2 @@
-
+Link para baixar a base de dados crua:
+https://caelum-online-public.s3.amazonaws.com/challenge-spark/semana-1.zip
